@@ -1,0 +1,57 @@
+.h-800 {
+    height: 800px;
+}
+
+.w-800 {
+    width: 800px;
+}
+
+.background {
+    position: absolute;
+    background-color: black;
+    z-index: -1;
+}
+
+.block-1 {
+    width: 485px;
+    height: 285px;
+    background-color: blue;
+    float: left;
+    margin: 9px;
+}
+
+.block-2 {
+    background-color: yellow; 
+    height: 484px;
+    width: 484px;
+    top: 313px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.block-3 {
+    height: 780px;
+    width: 50px;
+    background-color: red;
+    margin-left: 504px;
+    position: absolute;
+    margin-top: 10px;
+}
+
+.block-4 {
+    height: 285px;
+    width: 227px;
+    background-color: white;
+    position: absolute;
+    margin-top: 9px;
+    margin-left: 563px;
+}
+
+.block-5 {
+    height: 484px;
+    width: 227px;
+    margin-left: 563px;
+    position: absolute;
+    background-color: blue;
+    margin-top: 305px;
+}
